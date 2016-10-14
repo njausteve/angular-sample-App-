@@ -1,0 +1,66 @@
+/* Empty. Add your own CSS if you like */
+
+/*..........  @resets ..............*/
+
+
+
+
+
+/*..........  @fonts..............*/
+
+
+
+
+
+
+
+/*..........  @navigation..............*/
+
+
+
+
+
+
+/*.......... @layout ..............*/
+
+
+/*..........  @header..............*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*..........  @fonts..............*/
+
+
+
+
+
+
+.star>.item-content {
+    background-color: #EEE806 !important;
+}
+
+.splash {
+    background: url(../img/skyline.jpg) no-repeat center center fixed;
+       -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.branding{
+    margin-top: 20px;
+    width :  50%;
+    max-width: 200px;
+    margin: 0 auto;
+    text-align: center;
+}
